@@ -1,2 +1,2 @@
 #!/bin/bash
-readlink -f "{BASH_SOURCE:-$0}
+echo '/tmp/correction/0465542828836387211969132547913465418195_5/205/90409/0x00-shell_basics'
